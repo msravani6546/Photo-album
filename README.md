@@ -1,2 +1,3 @@
 # Photo-album
-Photo album application using cloud storage
+Photo album application using Dropbox cloud storage
+ 
