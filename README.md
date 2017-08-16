@@ -1,3 +1,3 @@
 # Photo-album
-Photo album application using Dropbox cloud storage
+Photo album application using Dropbox cloud storage [Dropbox API] (https://www.dropbox.com/developers/apps)
  
